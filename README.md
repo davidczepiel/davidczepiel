@@ -46,6 +46,8 @@ Hi, I'm David Czepiel Babiarz!
   </tr>
 </table>
 
+<!-- STATS 
+
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -69,6 +71,7 @@ Hi, I'm David Czepiel Babiarz!
   </tr>
 </table>
 
+-->
 
 <!-- CONTACT ME -->
 
