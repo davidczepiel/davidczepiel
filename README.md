@@ -17,41 +17,37 @@ Hi, I'm David Czepiel Babiarz!
 ---
 
 <!-- STATS -->
-<div align="center">
-<table>
-    <tr>
-        <!-- GITHUB OVERALL STATS -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davidczepiel&show_icons=true&hide=stars&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Davidczepiel's Github stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davidczepiel&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Github stats" />
-            </a>
-        </td>
-        <!-- MOST USED LANGUAGES -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="davidczepiel's Language stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
-            </a>
-        </td>
-    </tr>
-</table>
-</div>
 
+<table style="border: none">
+  <tr width = "1080px" >
+<td width="50%" valign="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img width= 50% height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="davidczepiel's Language stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
+    </a>
+</td>
+  <td width="50%" valign="center">
+	  
+## Favourite tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width= "50%" src="https://skillicons.dev/icons?i=unity,unreal" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width= "50%" src="https://skillicons.dev/icons?i=github,visualstudio,androidstudio" />
+  </a>
+</p>
+  </td>
+  </tr>
+</table>
 
 <table style="border: none">
   <tr>
-  <td width="50%" valign="top">
-
-## Let's Work Together!
-
-I am open to new work oportunities
-
-  </td>
   <td width="50%" valign="top">
 
 ## It's not perfect, isn't it?
@@ -62,6 +58,14 @@ I am open to new work oportunities
 – Elon Musk
 
   </td>
+<td>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img width= 50% height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="davidczepiel's Language stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
+    </a>
+</td>
   </tr>
 </table>
 
@@ -76,7 +80,7 @@ I am open to new work oportunities
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://czepieldavid@gmail.com">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<img src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" style=" width:35px; height:43px;"></a>
       </div>
 </p>
 
