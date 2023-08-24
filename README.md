@@ -12,6 +12,7 @@ Hi, I'm David Czepiel Babiarz!
 - 🔭 I like to create games as a hobby
 - 😊 Future Goals: Lear Unreal Engine 5
 - 💪🏼 Currently developing an Android game 
+- 💪🏼 Currently developing an Android game 
 
 ---
 
@@ -29,9 +30,11 @@ Hi, I'm David Czepiel Babiarz!
 </a>
 
 I have a strong background, where I'va been able to develop games for multiple platforms, such as PC, Android devices, and I was even able to try out what developing for consoles (PS4) is like
-<!-- CONTACT ME -->
 
-## Connect with me
+<!-- CONTACT ME -->
+</br>
+</br>
+</br>
 
 <h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
