@@ -5,7 +5,7 @@ Hi, I'm David Czepiel Babiarz!
 
 ## About Me
 
- <img align="right" height=160px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+ <img align="right" height=200px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
  
 - 🏫 I have a Bachelors in Game Development from the Complutense University of Madrid
 - 👨‍💻 I’m currently working as a C++ developer a Gambling Company
@@ -18,16 +18,17 @@ Hi, I'm David Czepiel Babiarz!
 <!-- STATS -->
 ## Skillset
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align= "left" src="https://skillicons.dev/icons?i=unity,unrealengine,androidstudio&perline=1" />
+  </a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
 </a>
 
 I have a strong background, where I'va been able to develop games for multiple platforms, such as PC, Android devices, and I was even able to try out what developing for consoles (PS4) is like
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img width= "15%" src="https://skillicons.dev/icons?i=unity,unreal" />
-  </a>
-</p>
 <!-- CONTACT ME -->
 
 ## Connect with me
