@@ -1,7 +1,13 @@
+ 
+	
 <h1 align="center">
 Hi, I'm David Czepiel Babiarz!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+   <a href="https://badges.pufler.dev/visits/davidczepiel/davidczepiel"> <img align="right" alt="davidczepiel" src="https://badges.pufler.dev/visits/davidczepiel/davidczepiel"> </a>
+
+ </h1>
+
 
 ## About Me
 
