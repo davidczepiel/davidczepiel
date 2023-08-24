@@ -3,77 +3,34 @@ Hi, I'm David Czepiel Babiarz!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+## About Me
 
-## I'm a Associate Software Engineer at Acentura
-
-- 🌏 I'm living now in Madrid, Spain
+ <img align="right" height=160px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+ 
 - 🏫 I have a Bachelors in Game Development from the Complutense University of Madrid
-- 👨‍💻 I’m currently working as a C++ developer for the Gambling Industry
-- 📚 Learning everything about Game Development 😅
-- 🔭 Working on my own game projects
-- 💪🏼 Future Goals: Never stop creating games.
+- 👨‍💻 I’m currently working as a C++ developer a Gambling Company
+- 🔭 I like to create games as a hobby
+- 😊 Future Goals: Lear Unreal Engine 5
+- 💪🏼 Currently developing an Android game 
 
 ---
 
 <!-- STATS -->
+## Skillset
 
-<table style="border: none">
-  <tr width = "1080px" >
-<td width="50%" valign="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img width= 50% height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="davidczepiel's Language stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
-    </a>
-</td>
-  <td width="50%" valign="center">
-	  
-## Favourite tools
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
+</a>
 
+I have a strong background, where I'va been able to develop games for multiple platforms, such as PC, Android devices, and I was even able to try out what developing for consoles (PS4) is like
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width= "50%" src="https://skillicons.dev/icons?i=unity,unreal" />
+    <img width= "15%" src="https://skillicons.dev/icons?i=unity,unreal" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img width= "50%" src="https://skillicons.dev/icons?i=github,visualstudio,androidstudio" />
-  </a>
-</p>
-  </td>
-  </tr>
-</table>
-
-<!-- STATS 
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-<td>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img width= 50% height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="davidczepiel's Language stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
-    </a>
-</td>
-  </tr>
-</table>
-
--->
-
 <!-- CONTACT ME -->
+
+## Connect with me
 
 <h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
