@@ -1,41 +1,39 @@
+![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square)
  
-	
 <h1 align="center">
-Hi, I'm David Czepiel Babiarz!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-   <a href="https://badges.pufler.dev/visits/davidczepiel/davidczepiel"> <img align="right" alt="davidczepiel" src="https://badges.pufler.dev/visits/davidczepiel/davidczepiel"> </a>
-
- </h1>
+Hi, I'm David Czepiel Babiarz!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
+</h1>
 
 
 ## About Me
 
- <img align="right" height=169px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
- 
-- 🏫 I have a Bachelors in Game Development from the Complutense University of Madrid
-- 👨‍💻 I’m currently working as a C++ developer a Gambling Company
-- 🔭 I like to create games as a hobby
-- 😊 Future Goals: Lear Unreal Engine 5
-- 💪🏼 Currently developing an Android game 
-- 💪🏼 Currently developing an Android game 
+ <img align="right" height=250px alt="side_sticker" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
----
+<ul>
+    <li>🏫 <b>Background: </b>: I have a Bachelors in Game Development from the Complutense University of Madrid and I'm currently working as a C++ developer for a company that creates gambling games</li>
+    <li>👨‍💻 <b>I’m currently focusing on</b>: creating my own video games 
+    <li>🔭 <b>I’m currently open for</b>: A new job opportunity or colaborating in video game projects <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+    <li>💪 <b>Future Goals:</b>: Never stop learning about GAME DEVELOPMENT 
+    <li>😄 <b>Fun fact</b>: I love videogames, Coding and Climbing </li>
+</ul>
+
 
 <!-- STATS -->
 ## Skillset
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
+</a>
 <p align="center">
   <a href="https://skillicons.dev">
     <img align= "left" src="https://skillicons.dev/icons?i=unity,unrealengine,androidstudio&perline=1" />
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
-</a>
+With a solid knowledge of the video game development field, I have been able to create games for various platforms, such as PC, Android devices, and I even had the opportunity to experience console development with PS4 development kits. 
 
-I have a strong background, where I'va been able to develop games for multiple platforms, such as PC, Android devices, and I was even able to try out what developing for consoles (PS4) is like
+With C++ being my main strength, I have been able to create my own game engine, although I also have experience with tools like Unity, Android Studio or Unreal Engine (which I am still learning).
 
 <!-- CONTACT ME -->
 </br>
@@ -52,6 +50,8 @@ I have a strong background, where I'va been able to develop games for multiple p
            <a style="margin-left: 10px;" target="_blank" href="https://czepieldavid@gmail.com">
 		<img src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" style=" width:35px; height:43px;"></a>
       </div>
+      
+      
 </p>
 
 <!-- THANK -->
