@@ -37,8 +37,6 @@ With C++ being my main strength, I have been able to create my own game engine, 
 
 <!-- CONTACT ME -->
 </br>
-</br>
-</br>
 
 <h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
