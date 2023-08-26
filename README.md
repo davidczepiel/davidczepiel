@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square)
 </div>
  
-<h1 align="center">
+<h1 align="center" border-bottom= "0">
 Hi, I'm David Czepiel Babiarz!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
 </h1>
-
 
 ## About Me
 
@@ -39,6 +38,8 @@ With a solid knowledge of the video game development field, I have been able to 
 With C++ being my main strength, I have been able to create my own game engine, although I also have experience with tools like Unity, Android Studio or Unreal Engine (which I am still learning).
 
 <!-- CONTACT ME -->
+
+<h1></h1>
 
 <h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
