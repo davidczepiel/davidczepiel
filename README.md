@@ -9,7 +9,7 @@ Hi, I'm David Czepiel Babiarz!<img src="https://media.giphy.com/media/hvRJCLFzca
 
 ## About Me
 
- <img align="right" height=225px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+ <img align="right" height=210px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <ul>
     <li>🏫 <b>Background: </b>: I have a Bachelors in Game Development from the Complutense University of Madrid and I'm currently working as a C++ developer for a company that creates gambling games</li>
