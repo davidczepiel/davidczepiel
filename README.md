@@ -42,18 +42,23 @@ With C++ being my main strength, I have been able to create my own game engine, 
 <h1></h1>
 
 <h3 align="center" >Connect with me 🤝 </h3>
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/david-czepiel-babiarz-2870b5235/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://czepieldavid@gmail.com">
-		<img src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" style=" width:35px; height:43px;"></a>
-      </div>
-      
-      
-</p>
+<div align="center"> 
+  <a href="mailto:czepieldavid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-czepiel-babiarz-2870b5235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://leetcode.com/davidczepiel/" target="_blank">
+	<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+ <!--- 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+ 
+</div>
 
 <!-- THANK -->
 <p align="center">
