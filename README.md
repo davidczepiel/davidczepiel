@@ -62,5 +62,5 @@ With C++ being my main strength, I have been able to create my own game engine, 
 
 <!-- THANK -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!!&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Check+out+my+pinned+repos!&center=true&width=380&height=45"></a>
 </p>
