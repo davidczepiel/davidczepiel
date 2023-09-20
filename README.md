@@ -49,6 +49,7 @@ With C++ being my main strength, I have been able to create my own game engine, 
   <a href="https://www.linkedin.com/in/david-czepiel-babiarz-2870b5235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+ <!--- 
   <a href="https://leetcode.com/davidczepiel/" target="_blank">
 	<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
