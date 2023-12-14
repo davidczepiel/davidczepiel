@@ -1,7 +1,11 @@
 <div align="center">
 
 ![github-header-image](https://github.com/davidczepiel/davidczepiel/assets/48888283/00c72087-db73-48ed-a972-fd14efa0028a)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=141321&height=200&width=961&section=header&text=capsule%20render&fontSize=90&fontColor=d83a7c)
 </div>
+
+
 
 ## About Me
 
