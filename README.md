@@ -1,5 +1,7 @@
 <div align="right">
-	
+
+![github-header-image](https://github.com/davidczepiel/davidczepiel/assets/48888283/00c72087-db73-48ed-a972-fd14efa0028a)
+
 ![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square)
 </div>
  
