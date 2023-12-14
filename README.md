@@ -32,6 +32,7 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 </a>
 </div>
 
+---
 
 <p>	
 With a solid knowledge of the video game development field, I have been able to create games for various platforms, such as PC, Android devices, and I even had the opportunity to experience console development with PS4 development kits. 
