@@ -1,13 +1,7 @@
-<div align="right">
+<div align="center">
 
 ![github-header-image](https://github.com/davidczepiel/davidczepiel/assets/48888283/00c72087-db73-48ed-a972-fd14efa0028a)
-
-![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square)
 </div>
- 
-<h1 align="center" border-bottom= "0">
-Hi, I'm David Czepiel Babiarz!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
-</h1>
 
 ## About Me
 
@@ -67,3 +61,8 @@ With C++ being my main strength, I have been able to create my own game engine, 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Check+out+my+pinned+repos!&center=true&width=380&height=45"></a>
 </p>
+
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square)
+</div>
