@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&color=auto&height=250&width=961&section=header&text=David%20Czepiel%20Babiarz&fontSize=55&fontColor=auto&fontAlignY=30&desc=Game%20Developer&descAlignY=50&descSize=30)
 </div>
+
 <p>	
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
@@ -24,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="davidczepiel's Language stats" />
+	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=tokyonight" alt="davidczepiel's Language stats" />
 </a>
 <p align="center">
   <a href="https://skillicons.dev">
