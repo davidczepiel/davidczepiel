@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&color=auto&height=300&width=961&section=header&text=David%20Czepiel%20Babiarz&fontSize=55&fontColor=auto&fontAlignY=30&desc=Game%20Developer&descAlignY=50&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&color=auto&height=250&width=961&section=header&text=David%20Czepiel%20Babiarz&fontSize=55&fontColor=auto&fontAlignY=30&desc=Game%20Developer&descAlignY=50&descSize=30)
 </div>
 <p>	
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
