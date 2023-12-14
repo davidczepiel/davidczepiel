@@ -7,6 +7,12 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align= "center" src="https://skillicons.dev/icons?i=cpp,cs,unity,godot,unrealengine,androidstudio,git&perline=10" />
+  </a>
+</p>
+
 ## About Me
 
  <img align="right" height=210px alt="side_sticker" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -27,11 +33,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=tokyonight" alt="davidczepiel's Language stats" />
 </a>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img align= "left" src="https://skillicons.dev/icons?i=unity,unrealengine,androidstudio&perline=1" />
-  </a>
-</p>
 
 With a solid knowledge of the video game development field, I have been able to create games for various platforms, such as PC, Android devices, and I even had the opportunity to experience console development with PS4 development kits. 
 
