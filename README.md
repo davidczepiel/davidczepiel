@@ -21,15 +21,14 @@ With a solid knowledge of the video game development field, I have been able to 
 <!-- STATS -->
 #
 <div align="center">
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 	<img align="left" height=160px  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=tokyonight" alt="davidczepiel's Language stats"/>
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+	<img align="left" height=160px  src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight" alt="davidczepiel's Language stats"/>
+</a>
 </div>
 
----
 With a solid knowledge of the video game development field, I have been able to create games for various platforms, such as PC, Android devices, and I even had the opportunity to experience console development with PS4 development kits. 
 
 With C++ being my main strength, I have been able to create my own game engine, although I also have experience with tools like Unity, Android Studio or Unreal Engine (which I am still learning).
