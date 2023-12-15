@@ -28,7 +28,7 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 <img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="1" height="160">
 	
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-	<img align="right" width=45% height=160px  src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight" alt="davidczepiel's Language stats"/>
+	<img align="right" width=45% height=160px  src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="davidczepiel's Language stats"/>
 </a>
 </div>
 
