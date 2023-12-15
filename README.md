@@ -77,3 +77,7 @@ With C++ being my main strength, I have been able to create my own game engine, 
 
 ![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square&color=111111&labelColor=black)
 </div>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged_percentage#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
