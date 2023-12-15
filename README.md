@@ -21,13 +21,13 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 <!-- STATS -->
 #
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
+<a href="https://github.com/anuraghazra/github-readme-stats" >
 	<img align="left" width=45% height=160px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=true&role=owner,collaborator&theme=tokyonight" alt="davidczepiel's Language stats"/>
 </a>
 <!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
 <img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="1" height="160">
 	
- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img align="right" width=45% height=160px  src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged_percentage" alt="davidczepiel's Language stats"/>
 </a>
 </div>
