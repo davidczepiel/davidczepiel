@@ -75,5 +75,5 @@ With C++ being my main strength, I have been able to create my own game engine, 
 
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square)
+![](https://komarev.com/ghpvc/?username=davidczepiel&style=flat-square&color=111111&labelColor=black)
 </div>
