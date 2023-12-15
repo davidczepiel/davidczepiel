@@ -14,7 +14,7 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align= "center" src="https://skillicons.dev/icons?i=cpp,cs,unity,godot,unrealengine,androidstudio,git&perline=10" />
+    <img align= "center" src="https://skillicons.dev/icons?i=cpp,cs,unity,godot,androidstudio,git&perline=10" />
   </a>
 </p>
 
