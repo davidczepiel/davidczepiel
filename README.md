@@ -5,7 +5,7 @@
   	<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&color=auto&height=250&width=961&section=header&text=David%20Czepiel%20Babiarz&fontSize=55&fontColor=auto&fontAlignY=30&desc=Game%20Developer&descAlignY=50&descSize=30" alt="header">
 	</a>
 	<a href="https://skillicons.dev#gh-light-mode-only">
-  	<img src="https://capsule-render.vercel.app/api?type=waving&theme=dark&color=auto&height=250&width=961&section=header&text=David%20Czepiel%20Babiarz&fontSize=55&fontColor=auto&fontAlignY=30&desc=Game%20Developer&descAlignY=50&descSize=30" alt="header">
+  	<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&color=auto&height=250&width=961&section=header&text=David%20Czepiel%20Babiarz&fontSize=55&fontColor=auto&fontAlignY=30&desc=Game%20Developer&descAlignY=50&descSize=30" alt="header">
 	</a>
 </p>
 
@@ -32,7 +32,7 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 </a>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" >
-<img align="left" width=45% height=160px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=false&role=owner,collaborator&theme=swift#gh-light-mode-only" alt="davidczepiel's Language stats"/>
+<img align="left" width=45% height=160px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidczepiel&layout=compact&langs_count=4&hide_border=false&role=owner,collaborator&theme=shadow_blue#gh-light-mode-only" alt="davidczepiel's Language stats"/>
 </a>
 	
 <!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
@@ -43,7 +43,7 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 <img align="right" width=45% height=160px src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged_percentage#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img align="right" width=45% height=160px src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&theme=swift&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged_percentage#gh-light-mode-only" alt="Anurag's GitHub stats-Light">
+<img align="right" width=45% height=160px src="https://github-readme-stats.vercel.app/api?username=davidczepiel&show_icons=true&theme=shadow_blue&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged_percentage#gh-light-mode-only" alt="Anurag's GitHub stats-Light">
 </a>
 </div>
 
