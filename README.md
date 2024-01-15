@@ -10,7 +10,7 @@
 </p>
 
 <p>	
-Hey there! I'm in the video game development scene. Cooked up games for PC and Android, even dipped my toes into console action with PS4 dev kits. C++ is my go-to—I crafted my own game engine, no biggie. Messed around with Unity, cruised through Android Studio, and now tackling Unreal Engine (still figuring it out). Always on that learning curve!
+Welcome to my github profile! 👋 I'm a software developer specialized in the field of video games. With a degree in video game development under my belt, I've been able to work on multiple projects for platforms such as PC, Android, and even had the opportunity to experience what console development is like by making use of PS4 development kits.
 </p>
 
 <!--- Skills icons, the first one is displayed only on dark mode, the second one only on light mode --->
@@ -49,10 +49,8 @@ Hey there! I'm in the video game development scene. Cooked up games for PC and A
 
 ---
 
-<p>	
-With a solid knowledge of the video game development field, I have been able to create games for various platforms, such as PC, Android devices, and I even had the opportunity to experience console development with PS4 development kits. 
-
-With C++ being my main strength, I have been able to create my own game engine, although I also have experience with tools like Unity, Android Studio or Unreal Engine (which I am still learning).
+<p align = "left">	
+Although I have experience with tools like Unity or Godot, I feel the most comfortable working in C++, with which I've even created my own engine from scratch.  You can find some of my best projects pinned below, but if you want to see projects I've worked on more recently I'll show you a couple of trailers/links. 
 </p>
 
 <!-- CONTACT ME -->
