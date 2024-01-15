@@ -54,24 +54,19 @@ During my student years I worked on multiple projects, such as the development o
 </p>
 
 <div align="center">
-
 <a href="https://www.youtube.com/watch?v=eL1H20nfTYs&ab_channel=DavidCzepiel">
 <img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/d14d2d19-2fe6-40ca-b8d7-11fb52d52709" alt="Anurag's GitHub stats-Light">
 </a>
-
 <!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
-<img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="160">
-
+<img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="125">
 <a href="https://freestylers-studio.itch.io/cat-watched-stars-viceversa">
 <img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/f0f02fbf-1b13-4976-a256-c80e1a528dd7" alt="Anurag's GitHub stats-Light">
 </a>
-
-<img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="160">
-
+<!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
+<img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="125">
 <a href="https://freestylers-studio.itch.io/apruebame-esta">
 <img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/6497e67d-44d3-4022-b165-20e55bc04b77" alt="Anurag's GitHub stats-Light">
 </a>
-
 </div>
 
 <!-- CONTACT ME -->
