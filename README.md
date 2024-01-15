@@ -10,7 +10,7 @@
 </p>
 
 <p>	
-Welcome to my github profile! 👋 I'm a software developer specialized in the field of video games. With a degree in video game development under my belt, I've been able to work on multiple projects for platforms such as PC, Android, and even had the opportunity to experience what console development is like by making use of PS4 development kits.
+Welcome to my github profile! 👋 I'm a software developer specialized in the field of video games. With a degree in video game development under my belt, I've been able to work on multiple projects for platforms such as PC, Android, and even had the opportunity to experience what console development is like by making use of PS4 development kits. Although I have experience with tools like Unity or Godot, I feel the most comfortable working in C++.
 </p>
 
 <!--- Skills icons, the first one is displayed only on dark mode, the second one only on light mode --->
@@ -50,8 +50,29 @@ Welcome to my github profile! 👋 I'm a software developer specialized in the f
 ---
 
 <p align = "left">	
-Although I have experience with tools like Unity or Godot, I feel the most comfortable working in C++, with which I've even created my own engine from scratch.  You can find some of my best projects pinned below, but if you want to see projects I've worked on more recently I'll show you a couple of trailers/links. 
+During my student years I worked on multiple projects, such as the development of multiple video games, and even the creation of my own game engine made in C++ from scratch. Some of which you can find pinned below. But if you want to see the things I've been working on lately here are a few examples:
 </p>
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=eL1H20nfTYs&ab_channel=DavidCzepiel">
+<img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/d14d2d19-2fe6-40ca-b8d7-11fb52d52709" alt="Anurag's GitHub stats-Light">
+</a>
+
+<!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
+<img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="160">
+
+<a href="https://freestylers-studio.itch.io/cat-watched-stars-viceversa">
+<img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/f0f02fbf-1b13-4976-a256-c80e1a528dd7" alt="Anurag's GitHub stats-Light">
+</a>
+
+<img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="160">
+
+<a href="https://freestylers-studio.itch.io/apruebame-esta">
+<img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/6497e67d-44d3-4022-b165-20e55bc04b77" alt="Anurag's GitHub stats-Light">
+</a>
+
+</div>
 
 <!-- CONTACT ME -->
 <h1></h1>
@@ -80,10 +101,6 @@ Although I have experience with tools like Unity or Godot, I feel the most comfo
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Check+out+my+pinned+repos!&center=true&width=380&height=45"></a>
 </p>
-
-<!---
-[![LumenFall Trailer](https://ytcards.demolab.com/?id=UCM9iCZBila_WaHwbOSgU1IQ&title=LumenFall+Trailer%21&lang=en&timestamp=1699630209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402 "LumenFall Trailer")](https://www.youtube.com/watch?v=eL1H20nfTYs&ab_channel=DavidCzepiel)
---->
 
 <div align="right">
 
