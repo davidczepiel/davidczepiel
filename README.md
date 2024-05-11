@@ -59,7 +59,7 @@ Throughout my career, I've developed games for multiple platforms, including PC,
 </a>
 <!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
 <img src="https://github.com/davidczepiel/davidczepiel/assets/48888283/ff863112-886c-4d09-8d4e-4173c6ecc26e" alt="TransparentImage" width="10" height="125">
-<a href="https://freestylers-studio.itch.io/cat-watched-stars-viceversa">
+<a href="https://freestylers-studio.itch.io/driftin-gibbon-time">
 <img align="center" height=160px src="https://github.com/davidczepiel/davidczepiel/assets/48888283/6e1401cb-27b8-4110-8900-99836892a5cb" alt="Anurag's GitHub stats-Light">
 </a>
 <!--Transparent image that allows me to have a blank space in betwean without the bottom text getting in the way-->
