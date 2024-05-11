@@ -10,7 +10,7 @@
 </p>
 
 <p>	
-Welcome to my github profile! 👋 I'm a software developer specialized in the field of video games. With a degree in video game development under my belt, I've been able to work on multiple projects for platforms such as PC, Android, and even had the opportunity to experience what console development is like by making use of PS4 development kits. Although I have experience with tools like Unity or Godot, I feel the most comfortable working in C++.
+👋 Hi there! I'm David, a dedicated software developer with a passion for games. 🎮 Within the vast world of game development, I found my niche in the more technical side of things, focusing on design patterns and algorithms that bring worlds to life. While I try to stay up-to-date with the industry's latest technologies, my expertise lies in C++.
 </p>
 
 <!--- Skills icons, the first one is displayed only on dark mode, the second one only on light mode --->
@@ -50,7 +50,7 @@ Welcome to my github profile! 👋 I'm a software developer specialized in the f
 ---
 
 <p align = "left">	
-During my student years I worked on multiple projects, such as the development of multiple video games, and even the creation of my own game engine made in C++ from scratch. Some of which you can find pinned below. But if you want to see the things I've been working on lately here are a few examples:
+Throughout my career, I've developed games for multiple platforms, including PC, Android, and even PS4, getting to know the advantages and intricacies of each one. Additionally, I've created my own game engine entirely from scratch using C++. Some of these projects are pinned below. However, if you're interested in seeing my recent work, feel free to explore the following examples:
 </p>
 
 <div align="center">
@@ -74,22 +74,15 @@ During my student years I worked on multiple projects, such as the development o
 
 <h3 align="center" >Connect with me 🤝 </h3>
 <div align="center"> 
+  <a href="https://www.linkedin.com/in/david-czepiel-babiarz-2870b5235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
   <a href="mailto:czepieldavid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/david-czepiel-babiarz-2870b5235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://davidczepiel.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
- <!--- 
-  <a href="https://leetcode.com/davidczepiel/" target="_blank">
-	<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
- <!--- 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
- 
 </div>
 
 <!-- THANK -->
